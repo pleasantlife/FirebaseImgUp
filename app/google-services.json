@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "429673162251",
+    "firebase_url": "https://fir-imgup-adab6.firebaseio.com",
+    "project_id": "fir-imgup-adab6",
+    "storage_bucket": "fir-imgup-adab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429673162251:android:9b30462abf711ea7",
+        "android_client_info": {
+          "package_name": "com.kimjinhwan.android.firebaseimgup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429673162251-ibtkfminbhj42vcq4lnat8kt8or8pc63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kimjinhwan.android.firebaseimgup",
+            "certificate_hash": "3bcf35e6b60e694d8767e28f00756c9aad66f239"
+          }
+        },
+        {
+          "client_id": "429673162251-inc52l6mf0t45kiu7kgkqh7nij4577v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0nSXR9Uvj-3FbCQSvYl-F_6B3LCTv4mo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429673162251-inc52l6mf0t45kiu7kgkqh7nij4577v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
